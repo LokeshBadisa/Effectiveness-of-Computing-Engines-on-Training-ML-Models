@@ -5,7 +5,7 @@ This project focuses on comparing the effectiveness of various computing engines
 
 The ML Model used is associated with [TiHAN](https://tihan.iith.ac.in/) and necessary approvals are taken for its use.
 
-Navigate to [this](https://github.com/LokeshBadisa/Effectiveness-of-Computing-Engines-on-ML-Models/blob/main/finalanalysis/main.pdf) for instructions regarding the simulation.
+Navigate to [this](https://github.com/LokeshBadisa/Effectiveness-of-Computing-Engines-on-Training-ML-Models/blob/main/finalanalysis/main.pdf) for instructions regarding the simulation.
 
 Local CPU refers to NVIDIA GTX 1650(the one which comes inbuilt with laptop).
 
