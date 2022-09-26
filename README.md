@@ -1,7 +1,7 @@
 # Effectiveness-of-Computing-Engines-on-ML-Models
-This project is done under the guidance of [Dr.GVV Sharma](https://www.iith.ac.in/ee/gadepall/),IIT Hyderabad in the first week of September,2022.
+This analysis is done under the guidance of [Dr.GVV Sharma](https://www.iith.ac.in/ee/gadepall/),IIT Hyderabad in the first week of September,2022.
 
-This project focuses on comparing the effectiveness of various computing engines on training ML Models.
+This analysis focuses on comparing the effectiveness of various computing engines on training ML Models.
 
 The ML Model used is associated with [TiHAN](https://tihan.iith.ac.in/) and necessary approvals are taken for its use.
 
